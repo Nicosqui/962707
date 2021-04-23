@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\bin\Debug\netcoreapp3.1\university-binary-tree.exe
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\bin\Debug\netcoreapp3.1\university-binary-tree.deps.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\bin\Debug\netcoreapp3.1\university-binary-tree.runtimeconfig.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\bin\Debug\netcoreapp3.1\university-binary-tree.runtimeconfig.dev.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\bin\Debug\netcoreapp3.1\university-binary-tree.dll
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\bin\Debug\netcoreapp3.1\university-binary-tree.pdb
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\obj\Debug\netcoreapp3.1\university-binary-tree.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\obj\Debug\netcoreapp3.1\university-binary-tree.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\obj\Debug\netcoreapp3.1\university-binary-tree.AssemblyInfo.cs
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\obj\Debug\netcoreapp3.1\university-binary-tree.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\obj\Debug\netcoreapp3.1\university-binary-tree.dll
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\obj\Debug\netcoreapp3.1\university-binary-tree.pdb
+D:\UNIVERSIDAD\Programación 3\Ejercicios\university-binary-tree\university-binary-tree\obj\Debug\netcoreapp3.1\university-binary-tree.genruntimeconfig.cache
